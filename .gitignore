@@ -1,0 +1,17 @@
+.env
+.vscode
+node_modules
+*.log
+*.lock
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+.DS_Store
+*.egg
+*.egg-info
+*.egg-info/*
+*.pyc
+*.pyo
+*.pyd
+*__pycache__*
